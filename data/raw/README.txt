@@ -1,0 +1,1 @@
+Bu dosya 2014 ve 2019 yılları arasındaki HİA veri setlerini içerir. 
