@@ -1,9 +1,7 @@
 
-Bu projede tezimdeki analizler için yazılan kodlar yer almaktadır. Veri setleri ise dahil edilmemiştir. 
+This project contains the codes written for the analyses in my thesis. Datasets are not included.
 
-Tez kapsamında "2018 İlave İstihdam Programı"nın nedensel etkisi Farkların Farkı ve Regresyon Süreksizlik Tasarımı kullanılarak incelenmiştir. 
+This thesis examines the causal impact of the "2018 Additional Employment Program" using Difference-in-Differences and Regression Discontinuity Designs.
 
-İstanbul Medeniyet Üniversitesi, İktisat Ana Bilim Dalı, İktisat Tezli Yüksek Lisans Programı (2022)
+Istanbul Medeniyet University, Department of Economics, Master's Program in Economics (2022)
 Yasemin Hayırlı
-
-
